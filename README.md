@@ -49,6 +49,6 @@ The app will open on your device, and you can start using Nouri.
 # You can also access it from Expo Snacks
 
 1. Go to your browser and open this Expo link:
-[Try Nouri on Expo Snack](https://snack.expo.dev/@ellenfaustine/nouri?platform=android)
+[Try Nouri on Expo Snack](https://snack.expo.dev/@ellenfaustine/nouri?platform=web)
 2. Open the preview using the toggle, and choose My Device.
 3. Scan the QR code with your mobile device’s camera. It will open Nouri in the Expo Go app.
